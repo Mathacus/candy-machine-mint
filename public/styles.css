@@ -1,0 +1,43 @@
+#main{
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   position: relative;
+   left: 40%;
+
+}
+
+h1{
+    position: relative;
+    left: 10%;
+    width: 148px;
+    padding: 2px;
+}
+h3{
+    position: relative;
+    bottom: 20px;
+}
+
+#root{
+    position: relative;
+    left: 10%;
+}
+#logo{
+    width: 300px;
+    position: relative;
+    left: 45%;
+    top: 50px;
+}
+
+#motto{
+    position: relative;
+    left: 35%;
+    top: 50px;
+}
+
+#discord{
+    position: relative;
+    left: 51%;
+    top: 50px;
+    width: 100px;
+}
